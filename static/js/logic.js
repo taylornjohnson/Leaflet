@@ -55,3 +55,4 @@ d3.json(queryUrl).then(function(data) {
     var overlayMaps = {
       Earthquakes: earthquakes
     };
+  };
